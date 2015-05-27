@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Yumeng Wang> -- <Developer> -- <notwitter>
 
 # THANKS
 
-    <name>
+    <Marina Mele>Thanks for your tutorial. It makes me feel much more confident when writing a Django project. 
 
 # TECHNOLOGY COLOPHON
-
+    Django 
     HTML5, CSS3
     jQuery, Modernizr
